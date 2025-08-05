@@ -8,7 +8,7 @@ This project presents an end-to-end analysis of Nike's U.S. sales data from 2020
 - 🔢 **Dataset**: 9,360 rows × 9 columns  
 - 🐍 **EDA** performed in Python  
 - 📈 Visualized using Power BI  
-- 🌎 Focus: U.S. Sales Data
+- 🌎 Focus: Nike U.S. Sales Data
 
 ---
 
@@ -25,7 +25,6 @@ This project presents an end-to-end analysis of Nike's U.S. sales data from 2020
 
 - **Python** (Pandas, Matplotlib, Seaborn) – for EDA  
 - **Power BI** – for visualization (static + interactive dashboards)  
-- **Excel / CSV** – for data preprocessing and formatting
 
 ---
 
