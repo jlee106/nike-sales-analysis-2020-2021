@@ -32,18 +32,18 @@ This project presents an end-to-end analysis of Nike's U.S. sales data from 2020
 ## 🖼️ Screenshots
 
 ### 🔹 Static Dashboard
-![Static Dashboard](img1.png)
+![Static Dashboard](NikeSalesDashboard.png)
 
 ### 🔹 Interactive Dashboard
-![Interactive Dashboard](img2.png)
+![Interactive Dashboard](NikeInteractiveDashboard.png)
 
 ---
 
 ## 📁 Files in this Repo
 
-- `nike_sales_data.csv` – Raw dataset (not included here due to size/privacy)
+- `nike_dataset.csv` – Synthetic dataset from kaggle
 - `EDA.ipynb` – Python notebook for data exploration and preprocessing
-- `nike_dashboard.pbix` – Power BI dashboard file
+- `Nike Sales.pbix` – Power BI dashboard file
 - `README.md` – This file
 
 ---
